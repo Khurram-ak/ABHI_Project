@@ -1,0 +1,25 @@
+@font-face {
+  font-family: sharpSans;
+  src: url(./assests/fonts/Sharp\ Sans.otf);
+}
+@font-face {
+  font-family: sharpBoldItalic;
+  src: url(./assests/fonts/Sharp\ Sans\ Bold\ Italic.otf);
+}
+@font-face {
+  font-family: sharpMed;
+  src: url(./assests/fonts/Sharp\ Sans\ Medium.otf);
+}
+@font-face {
+  font-family: sharpSemiBold;
+  src: url(./assests/fonts/Sharp\ Sans\ Semibold.otf);
+}
+@font-face {
+  font-family: sharpBold;
+  src: url(./assests/fonts/SharpSansBold.otf);
+}
+ 
+@font-face {
+  font-family: sharpMedItalic;
+  src: url(./assests/fonts/Sharp\ Sans\ Medium\ Italic.otf);
+}

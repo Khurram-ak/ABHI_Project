@@ -1,0 +1,30 @@
+.cardText2{
+    display: inline !important;
+}
+.productCard {
+    width: 280px;
+    margin-right: 15px;
+    height: 300px;
+    margin-top: 20px;
+    display: flex !important;
+border: none;
+    align-items: center;
+} 
+.cardText{
+    color: black;
+    background-color: #fff;
+    
+    cursor: pointer;
+}
+.cardBody{
+background-color: none;
+transition-duration: .8s;
+
+} 
+.benefitsImg{
+height: 96px;
+width: 125px;
+
+display: flex !important;
+justify-content: center;
+}

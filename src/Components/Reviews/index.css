@@ -1,0 +1,18 @@
+
+.stars{
+    color: #212153 !important;
+    font-size: 85px !important;
+}
+
+.reviewBox{
+    margin-bottom: 10px;
+    height: 230px;
+    padding: 0px 12px;
+    border: 1px solid gray;
+    border-radius: 5px; 
+    box-shadow:  3px 4px 4px #9b9b9b;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;                
+align-items: center;
+}

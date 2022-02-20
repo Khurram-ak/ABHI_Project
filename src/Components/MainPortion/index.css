@@ -1,0 +1,37 @@
+#main{
+    height: 93vh;
+    background-color:#212153;
+    
+}  
+
+.mainFont{
+    font-family: sharpBold;
+}
+.mainFont2{
+    font-family: sharpMed;
+}
+.mainPic{
+    height: auto;
+}
+.brandContainer {
+    height: 400px;
+    padding: 15px;
+    border-radius: 0px;
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-shadow: 2px 2px 15px #969595, 0px 1px 9px #969494
+}
+@media screen and (max-width:1190px) {
+    .mainPic{
+        height: 280px;
+    }
+}  
+    
+@media screen and (max-width: 990px) {
+    .mainPic{
+        height: 260px;
+    }
+}  
+    

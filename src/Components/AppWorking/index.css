@@ -1,0 +1,14 @@
+ .waveImg{
+    /* height: 80vh; */
+    margin-top: 20px;
+    background-image: url(../../assests/wave.png);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+ }
+ .app{
+    height: 700px;
+
+ }

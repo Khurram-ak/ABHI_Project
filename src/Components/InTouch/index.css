@@ -1,0 +1,15 @@
+.footerWave{
+background-image: url(../../assests/footerWave.png);
+height: auto;
+}
+.inTouchBtn{
+    /* width: 120px; */
+    padding: 15px;
+    background-color:#212153 !important;
+    border-radius: 5px;
+    color: white;
+    display: block;
+    font-family: sharpMed;
+    font-weight: 600;
+    margin-top: 17px;
+} 

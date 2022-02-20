@@ -1,0 +1,43 @@
+#learnMore{
+    /* max-height: 70vh; */
+    /* background-color:#b9b9ce; */
+    
+}  
+.learnMorePic{
+    height: auto;
+}
+@media screen and (max-width:1400px) {
+    .learnMorePic{
+        height: 350px;
+    }
+}  
+    
+@media screen and (max-width:1190px) {
+    .learnMorePic{
+        height: 280px;
+    }
+}  
+    
+@media screen and (max-width: 990px) {
+    .learnMorePic{
+        height: 260px;
+    }
+}  
+    
+.learnBtn{
+    width: auto;
+    padding: 11px 13px;
+    background-color:#60EABE !important;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    margin-top: 15px; 
+    
+    font-family: sharpMed;
+    font-weight: 600;
+}
+.learnBtn:hover{
+    background-color:#60EABE !important;
+    color: black;
+
+}
